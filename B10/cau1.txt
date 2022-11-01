@@ -1,0 +1,35 @@
+- Tittel: Còn hơn một tháng đến World Cup, fan bóng đá chuẩn bị gì?
+ + describe : Chọn lựa một chiếc TV phù hợp là cách dễ dàng để người dùng mang không khí bóng đá về với thế giới riêng của mình.
+ + Time: 18:00 18/10/2022
+ + Link:https://zingnews.vn/cong-nghe.html/con-hon-mot-thang-den-world-cup-fan-bong-da-chuan-bi-gi-post1366486.html
+
+- Tittel: Việt Nam là nước có nhiều lừa đảo qua mạng nhất Đông Nam Á
+ + describe : Chỉ tính trong 2 quý đầu năm nay, đã có hơn 5,52 triệu vụ tấn công lừa đảo trực tuyến được ghi nhận tại Việt Nam
+ + Time: 10:15 18/10/2022
+ + Link:https://zingnews.vn/cong-nghe.html/viet-nam-la-nuoc-co-nhieu-lua-dao-qua-mang-nhat-dong-nam-a-post1366121.html
+
+- Tittel: Bộ não thu nhỏ có thể chơi game
+ + describe : Một cụm tế bào thần kinh trên đĩa thí nghiệm chơi được trò chơi điện tử cổ điển Pong nhờ kết nối với chip và được huấn luyện.
+ + Time: 06:30 18/10/2022
+ + Link:https://zingnews.vn/cong-nghe.html/bo-nao-thu-nho-co-the-choi-game-post1366109.html
+
+- Tittel: Sự kiện DOTinVietnam về hệ sinh thái Polkadot diễn ra tại Hà Nội
+ + describe : Sự kiện xoay quanh hệ sinh thái Polkadot được tổ chức vào ngày 18/10 tại hội trường Gem Ballroom - tòa nhà The One, Hà Nội.
+ + Time: 21:00 17/10/2022
+ + Link:https://zingnews.vn/cong-nghe.html/su-kien-dotinvietnam-ve-he-sinh-thai-polkadot-dien-ra-tai-ha-noi-post1366210.html
+
+- Tittel: Vẫn có hàng dài người chờ mua iPhone chính hãng
+ + describe : Văn hóa xếp hàng để mua iPhone được duy trì tại Việt Nam. Người dùng sẵn sàng chờ đợi nhiều giờ để được trên tay chiếc điện thoại mới.
+ + Time: 20:00 17/10/2022
+ + Link:https://zingnews.vn/cong-nghe.html/van-co-hang-dai-nguoi-cho-mua-iphone-chinh-hang-post1366151.html
+
+- Tittel: Hơn một nửa linh kiện iPhone 14 đến từ Trung Quốc
+ + describe : Thống kê cho thấy các thương hiệu Trung Quốc chiếm phân nửa tổng chuỗi cung ứng của iPhone 14, con số kỷ lục với một sản phẩm từ Apple.
+ + Time: 19:25 17/10/2022
+ + Link:https://zingnews.vn/cong-nghe.html/hon-mot-nua-linh-kien-iphone-14-den-tu-trung-quoc-post1366025.html
+
+- Tittel: Apple buộc phải ngừng sử dụng chip Trung Quốc
+ + describe : Apple bất đắc dĩ phải ngừng sử dụng chip bộ nhớ của hãng YMTC do lệnh siết chặt kiểm soát xuất khẩu chip của Bộ Thương mại Mỹ.
+ + Time: 16:29 17/10/2022
+ + Link:https://zingnews.vn/cong-nghe.html/apple-buoc-phai-ngung-su-dung-chip-trung-quoc-post1366106.html
+
